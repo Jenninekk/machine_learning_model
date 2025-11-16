@@ -1,0 +1,9 @@
+Description
+
+The dataset I plan to use contains information on individuals’ demographic, lifestyle, and
+regional attributes and their corresponding medical insurance charges. Key variables include
+age, sex, BMI, number of children, smoking status, region, and Cost. This dataset provides
+explores how different personal habits and demographics influence healthcare costs. My main
+hypothesis is that smokers and individuals with higher BMI values will have significantly higher
+insurance charges. I also want to explore whether there are any regional disparities in
+healthcare expenses.
